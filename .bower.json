@@ -1,0 +1,16 @@
+{
+  "name": "jquery.charlimit",
+  "license": "MIT",
+  "_cacheHeaders": {
+    "ETag": "\"27893068b720d21:0\"",
+    "Last-Modified": "Fri, 07 Oct 2016 16:25:24 GMT",
+    "Content-Length": "1368",
+    "Content-Type": "application/x-zip-compressed"
+  },
+  "version": "1.0.0",
+  "_release": "1.0.0",
+  "main": "./js/jquery.charlimit.js",
+  "_source": "http://dshswbfts5001/Wshall/jquery.charlimit.zip",
+  "_target": "1.0.0",
+  "_originalSource": "http://dshswbfts5001/Wshall/jquery.charlimit.zip"
+}
